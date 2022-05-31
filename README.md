@@ -9,6 +9,9 @@
 Любые вопросы по решению задач задавайте в чате Slack (ссылку вы найдете в письме на вашей эл. почте).
 
 [8.1 - Инфоблоки в панели администрирования](https://github.com/netology-code/bcont-homeworks/blob/main/8.1.md)
+
 [8.2	Интеграция верстки в шаблон компонента](https://github.com/netology-code/bcont-homeworks/blob/main/8.2/8.2.md)
+
 [8.3	Кастомизация логики в шаблонах компонентов (result_modifier.php и component_epilog.php)](https://github.com/netology-code/bcont-homeworks/blob/main/8.3/8.3.md)
+
 [8.4	Формирование динамического меню](https://github.com/netology-code/bcont-homeworks/blob/main/8.4/8.4.md)
