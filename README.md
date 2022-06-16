@@ -8,7 +8,7 @@
 
 Любые вопросы по решению задач задавайте в студенческом чате (ссылку вы найдете в письме на вашей эл. почте).
 
-[8.1 - Инфоблоки в панели администрирования](https://github.com/netology-code/bcont-homeworks/blob/main/8.1.md)
+[8.1 - Инфоблоки в панели администрирования](https://github.com/netology-code/bcont-homeworks/blob/main/8.1/8.1.md)
 
 [8.2	Интеграция верстки в шаблон компонента](https://github.com/netology-code/bcont-homeworks/blob/main/8.2/8.2.md)
 
